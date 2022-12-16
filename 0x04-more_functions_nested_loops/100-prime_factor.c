@@ -3,7 +3,7 @@
 /**
  * main -  calculate largest prime of 612852475143
  *
- * Return: (0) Success 
+ * Return: (0) Success
  */
 
 int main(void)
