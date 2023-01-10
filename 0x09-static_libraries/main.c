@@ -1,7 +1,5 @@
 
-
-#include "holberton.h"
-
+#include "main.h"
 /**
  * main - Entry check alx code
  *
@@ -10,6 +8,6 @@
 
 int main(void)
 {
-	_puts("\The day is hot\"\n\t- Simon jerry");
+	_puts("\"At the end of the day, my goal was to be the best hacker\"\n\t- Kevin Mitnick");
 	return (0);
 }
