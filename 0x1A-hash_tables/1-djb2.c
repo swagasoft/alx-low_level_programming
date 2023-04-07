@@ -2,9 +2,9 @@
 
 /**
  * hash_djb2 - Hash function implementing the djb2 algorithm.
- * @str: The string pointer to hash.
+ * @str: The string to hash.
  *
- * Return: The calculated hash as a result.
+ * Return: The calculated hash.
  */
 unsigned long int hash_djb2(const unsigned char *str)
 {
