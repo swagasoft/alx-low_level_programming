@@ -1,10 +1,10 @@
 #include "search_algos.h"
 
 /**
- * jump_search - searches for a value in a sorted array
+ * jump_search - searches for a value in a sorted array of integers
  * @array: array of integers
  * @size: size of array
- * @value: target value
+ * @value: value at be searched
  *
  * Return: index of value searched or -1
  */
